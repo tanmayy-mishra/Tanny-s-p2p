@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.p2p-carpooling-dapp2 {
+  position: absolute;
+  top: 161px;
+  left: 341px;
+  font-size: 64px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 758px;
+}
+.rectangle-icon,
+.rectangle-icon1,
+.rectangle-icon2,
+.rectangle-icon3 {
+  position: absolute;
+  top: 397.5px;
+  left: 719.5px;
+  border-radius: 45px;
+  width: 366px;
+  height: 60px;
+}
+.rectangle-icon1,
+.rectangle-icon2,
+.rectangle-icon3 {
+  top: 497.5px;
+}
+.rectangle-icon2,
+.rectangle-icon3 {
+  top: 697.5px;
+}
+.rectangle-icon3 {
+  top: 597.5px;
+}
+.desitination-b,
+.seats-b,
+.source-b,
+.time-b {
+  position: absolute;
+  top: 398px;
+  left: 416px;
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  display: inline-block;
+}
+.desitination-b,
+.seats-b,
+.time-b {
+  top: 498px;
+  left: 398px;
+}
+.seats-b,
+.time-b {
+  top: 598px;
+  left: 416px;
+}
+.time-b {
+  top: 698px;
+  left: 420px;
+}
+.rectangle-icon4 {
+  position: absolute;
+  top: 821.5px;
+  left: 554.5px;
+  border-radius: 45px;
+  width: 407px;
+  height: 93px;
+}
+.publish {
+  position: absolute;
+  top: 838px;
+  left: 696px;
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  display: flex;
+  align-items: flex-end;
+  width: 312px;
+  height: 58px;
+}
+.image-9-icon2 {
+  position: absolute;
+  top: 42px;
+  left: 44px;
+  width: 127px;
+  height: 119px;
+  object-fit: cover;
+}
+.desktop-2 {
+  position: relative;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #3668c8,
+    rgba(9, 22, 92, 0.91)
+  );
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 36px;
+  color: #fff;
+  font-family: Inter;
+}

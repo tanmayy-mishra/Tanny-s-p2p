@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.group-icon {
+  position: absolute;
+  top: 723.5px;
+  left: 507.5px;
+  width: 389px;
+  height: 101px;
+  cursor: pointer;
+}
+.about-div,
+.p2p-carpooling-dapp1 {
+  position: absolute;
+  top: 89px;
+  left: 339px;
+  text-transform: capitalize;
+  font-weight: 800;
+  display: inline-block;
+}
+.about-div {
+  top: 209px;
+  left: 634px;
+  font-size: 48px;
+  font-weight: 600;
+}
+.image-9-icon1 {
+  position: absolute;
+  top: 32px;
+  left: 45px;
+  width: 127px;
+  height: 119px;
+  object-fit: cover;
+}
+.connect-your-wallet {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  display: inline-block;
+}
+.group-div3 {
+  position: absolute;
+  top: 750px;
+  left: 526px;
+  width: 351px;
+  height: 54px;
+  font-size: 36px;
+}
+.x600-1-icon {
+  position: absolute;
+  top: 824px;
+  left: 0;
+  border-radius: 79px;
+  width: 1475px;
+  height: 200px;
+  object-fit: cover;
+}
+.an-alternative-cab-service-app {
+  position: absolute;
+  top: 378px;
+  left: 129px;
+  font-size: 26px;
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  color: #909eb2;
+  text-align: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 1146px;
+}
+.desktop-4 {
+  position: relative;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #3668c8,
+    rgba(9, 22, 92, 0.91)
+  );
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 64px;
+  color: #fff;
+  font-family: Inter;
+}
